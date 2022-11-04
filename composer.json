@@ -1,0 +1,12 @@
+{
+    "name": "mahmoudeldegwey/inspire",
+    "type": "composer-plugin",
+    "require": {
+      "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mahmoudeldegwey\\Inspire\\": "src/"
+        }
+    }
+}
