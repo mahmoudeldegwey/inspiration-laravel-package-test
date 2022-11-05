@@ -1,5 +1,5 @@
 {
-    "name": "mahmoudeldegwey/inspire",
+    "name": "mahmoudeldegwey/inspiration-laravel-package-test",
     "type": "composer-plugin",
     "require": {
       "guzzlehttp/guzzle": "^7.0.1"
@@ -8,5 +8,7 @@
         "psr-4": {
             "Mahmoudeldegwey\\Inspire\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
