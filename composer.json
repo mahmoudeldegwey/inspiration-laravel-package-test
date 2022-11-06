@@ -16,11 +16,9 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "composer-plugin-api": "^2.0"
     },
-
     "require-dev": {
         "composer/composer": "^2.0"
     },
-
     "extra": {
         "class": "Mahmoudeldegwey\\Inspire\\TemplateInstallerPlugin"
     }
