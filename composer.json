@@ -1,13 +1,17 @@
 {
     "name": "mahmoudeldegwey/inspiration-laravel-package-test",
-    "require": {
-      "guzzlehttp/guzzle": "^7.0.1"
-    },
+    "authors": [
+        {
+            "name": "Mahmoud El degwey",
+            "email": "Mahmoud.eldegwey@yahoo.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mahmoudeldegwey\\Inspire\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "require": {
+      "guzzlehttp/guzzle": "^7.0.1"
+    }
 }
