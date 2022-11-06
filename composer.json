@@ -1,6 +1,6 @@
 {
     "name": "mahmoudeldegwey/inspiration-laravel-package-test",
-    "type": "composer-plugin",
+    "type": "library",
     "authors": [
         {
             "name": "Mahmoud El degwey",
@@ -19,6 +19,7 @@
     "require-dev": {
         "composer/composer": "^2.0"
     },
+    "minimum-stability": "dev",
     "extra": {
         "class": "Mahmoudeldegwey\\Inspire\\TemplateInstallerPlugin"
     }
