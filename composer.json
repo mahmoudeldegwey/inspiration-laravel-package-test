@@ -1,5 +1,6 @@
 {
     "name": "mahmoudeldegwey/inspiration-laravel-package-test",
+    "type": "composer-plugin",
     "authors": [
         {
             "name": "Mahmoud El degwey",
